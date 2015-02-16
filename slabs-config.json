@@ -11,8 +11,10 @@
       "id": {
         "type": "string",
         "minLength" : 2,
+        "default" : "http://www.google.com",
         "description" : "This needs to be a shared URL like 'http://www.google.com'",
-        "title": "URL"
+        "title": "URL",
+        "brief": "URL"
       }
     }
   },
