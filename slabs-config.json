@@ -10,8 +10,8 @@
       "id": {
         "type": "string",
         "minLength" : 2,
-        "description" : "For example 'Firefox' from https://www.facebook.com/Firefox",
-        "title": "Facebook Page ID"
+        "description" : "This needs to be a shared URL like 'http://www.google.com'",
+        "title": "URL"
       }
     }
   },
